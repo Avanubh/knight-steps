@@ -1,0 +1,12 @@
+.footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    width: 100%;
+    position: relative; /* Changed from fixed to relative */
+    bottom: 0;
+    margin-top: 20px; /* Adds spacing from the content */
+  }
+  
